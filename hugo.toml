@@ -276,3 +276,7 @@ description = "Sed ut perspiciatis unde omnis iste natus error sit voluptatem ac
     name = "Contact Me"
     url = "/contact/"
     weight = 5
+    
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
